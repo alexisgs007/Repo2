@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C657-86E8
+
+ Directory of C:\Users\Alexis\Desktop\MyProject
+
+03/15/2019  08:05 PM    <DIR>          .
+03/15/2019  08:05 PM    <DIR>          ..
+03/15/2019  07:39 PM                22 index.html
+03/15/2019  07:39 PM                 8 test1.txt
+03/15/2019  08:05 PM                 0 test2.txt
+               3 File(s)             30 bytes
+               2 Dir(s)  214,074,601,472 bytes free
